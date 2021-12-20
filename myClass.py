@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """ Process class used in main method to list running process
     It will show running process pid and user corrently running it and
     and using os.system to kill the pid

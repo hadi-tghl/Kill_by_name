@@ -4,13 +4,13 @@ This script (main.py) is a simple command-line tool for listing and terminating 
 
 **Usage:**
 
-  ./main.py [options] <process_id>
+    ./main.py [options] <process_id>
   
 <process_id>: The process ID (PID) of the target process.
 
 **Options:**
 
-    -i, --info: Display more information about the specified process.
+      -i, --info: Display more information about the specified process.
     
 **Files**
 
